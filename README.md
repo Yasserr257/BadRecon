@@ -1,3 +1,4 @@
+![BadRecon Banner](banner.png)
 # BadRecon
 
 **Automated subdomain & recon enumeration pipeline (Passive, Archive, Active, Live checks)**
