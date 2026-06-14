@@ -112,6 +112,9 @@ A final `SUMMARY_REPORT.txt` is generated with stats per source, aggregated tota
 
 ---
 
+>## Made with 🖤 by **BadYasser**
+
+---
 ## Disclaimer
 
 This tool is intended for **authorized security testing and bug bounty programs only**. Always ensure you have explicit permission to test the target domain. The author is not responsible for any misuse of this tool.
