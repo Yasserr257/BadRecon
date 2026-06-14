@@ -112,7 +112,9 @@ A final `SUMMARY_REPORT.txt` is generated with stats per source, aggregated tota
 
 ---
 
-## Made with  by **BadYasser**
+## Author
+
+Created and maintained by [BadYasser (Yasserr257)](https://github.com/Yasserr257)
 
 ---
 ## Disclaimer
